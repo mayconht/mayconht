@@ -1,6 +1,7 @@
 
 [![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconht)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 You can find me on [![LinkedIn][2.2]][2].

@@ -3,7 +3,7 @@
 <p align="center">I'm a backend (getting into DevOps) developer from São Paulo - Brazil</p>
 
 
-- 💼 Developer at at [IBM](https://www.ibm.com/)
+- 💼 Developer at [IBM](https://www.ibm.com/)
 - ❤️ I love cats
 - 📈 I am investing time and effort in learning and mastering new technologies in 2021.
 - 💬 Ask me about anything [here](https://github.com/mayconht/mayconht/issues)

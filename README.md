@@ -11,8 +11,13 @@
 
 <h2 align="center"> highlights</h2>
 
-| <a href="https://www.linkedin.com/in/maycondss/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconht&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=false" alt="Anurag's github stats" /></a> | <a href="https://www.linkedin.com/in/maycondss/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&layout=compact&theme=vue-dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://www.linkedin.com/in/maycondss/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconht&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" />
+</a>  
+<a href="https://www.linkedin.com/in/maycondss/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&layout=compact&theme=vue-dark&hide_border=true" />
+</a> 
+
 
 <h2 align="center">Tools and Frameworks</h2>
     <p align="center">
@@ -38,9 +43,3 @@
      <a href="https://www.linkedin.com/in/maycondss/"><img align="center" src="https://github.com/mayconht/mayconht/blob/fc97338f5c4970eba3064abbc4456cb032bffd13/linkedin.png" width="30" alt="Maycon Douglas Profile" /></a>
     </p>
     <br>
-
-   
- 
-
-
-

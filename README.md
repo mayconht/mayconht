@@ -10,14 +10,10 @@
 
 
 <h2 align="center"> highlights</h2>
-
- <a align="center" href="https://www.linkedin.com/in/maycondss/">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=mayconht&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" />
-</a>  
-<a align="center" href="https://www.linkedin.com/in/maycondss/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&layout=compact&theme=vue-dark&hide_border=true" />
-</a> 
-
+<div>
 
 <h2 align="center">Tools and Frameworks</h2>
     <p align="center">

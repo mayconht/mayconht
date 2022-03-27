@@ -10,9 +10,9 @@
 
 
 <h2 align="center"> highlights</h2>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mayconht&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&layout=compact&theme=vue-dark&hide_border=true" />
+<div align="center">
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=mayconht&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" />
+    <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&layout=compact&theme=vue-dark&hide_border=true" />
 <div>
 
 <h2 align="center">Tools and Frameworks</h2>

@@ -1,6 +1,6 @@
 <h2 align="center">Who I am</h2>
 <br>
-<p align="center">I'm a backend (getting into DevOps) developer from São Paulo - Brazil</p>
+<p align="center">I'm a backend (getting into fullstack) developer from São Paulo - Brazil</p>
 
 
 - 💼 Developer at [CI&T](https://ciandt.com/)

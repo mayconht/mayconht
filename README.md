@@ -49,9 +49,8 @@ Never gonna tell a lie and hurt you
 <div align="center">
     <a href="https://www.linkedin.com/in/maycondss/">
     <img style="width: 66%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayconht&theme=vue-dark&hide_border=true" />
-    <img style="width: 65%;" src="https://github-readme-stats.vercel.app/api?username=mayconht&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" />
+    <img style="width: 65%;" src="https://github-readme-stats.vercel.app/api?username=mayconht&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true"/>
     <img style="width: 65%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&layout=compact&theme=vue-dark&hide_border=true" />
-    
     </a>
 <div>
 

@@ -38,7 +38,7 @@ Never gonna tell a lie and hurt you
 <p align="center">I'm a backend (getting into fullstack) developer from São Paulo - Brazil</p>
 
 
-- 💼 Developer at [CI&T](https://ciandt.com/)
+- 💼 Working every day with code <3 
 - ❤️ Cat lover
 - 🇧🇷 Brazilian
 - 📈 I am investing time and effort in learning and mastering new technologies in 2022.

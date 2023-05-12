@@ -35,7 +35,7 @@ Never gonna tell a lie and hurt you
 
 <h2 align="center">Who I am</h2>
 <br>
-<p align="center">I'm a backend (getting into fullstack) developer from São Paulo - Brazil</p>
+<p align="center">I'm a backend developer from São Paulo - Brazil</p>
 
 
 - 💼 Working every day with code <3 
@@ -44,7 +44,7 @@ Never gonna tell a lie and hurt you
 - 📈 I am investing time and effort in learning and mastering new technologies in 2023.
 - 💬 Ask me about anything [here](https://github.com/mayconht/mayconht/issues)
 
-
+<!-- 
 <h2 align="center"> highlights</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/maycondss/">
@@ -53,7 +53,7 @@ Never gonna tell a lie and hurt you
     <img style="width: 65%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&layout=compact&theme=vue-dark&hide_border=true"/>
     </a>
 <div>
-
+-->
 <h2 align="center">Tools and Frameworks</h2>
     <p align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">

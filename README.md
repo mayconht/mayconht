@@ -35,7 +35,7 @@ Never gonna tell a lie and hurt you
 
 <h2 align="center">Who I am</h2>
 <br>
-<p align="center">I'm a backend developer from São Paulo - Brazil</p>
+<p align="center">I'm a backend developer living in  Isle of Man </p>
 
 
 - 💼 Working every day with code <3 

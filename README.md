@@ -41,7 +41,7 @@ Never gonna tell a lie and hurt you
 - 💼 Working every day with code <3 
 - ❤️ Cat lover
 - 🇧🇷 Brazilian
-- 📈 I am investing time and effort in learning and mastering new technologies in 2024.
+- 📈 I am investing time and effort in learning and mastering new technologies in 2025.
 - 💬 Ask me about anything [here](https://github.com/mayconht/mayconht/issues)
 
 <!-- 

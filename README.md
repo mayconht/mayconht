@@ -146,8 +146,9 @@ hobbies: ["Coding", "Learning New Tech" "Cat Lover"]
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconht&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconht&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconht&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" /> -->
+
 </div>
 
 <br>

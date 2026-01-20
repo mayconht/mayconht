@@ -34,8 +34,6 @@ Never gonna tell a lie and hurt you
 <!-- Header -->
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header)
-
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi%2C+I'm+Maycon+Douglas;Software+Architect+%7C+SDET" alt="Typing SVG" />
@@ -204,7 +202,6 @@ hobbies: ["Coding", "Learning New Tech" "Cat Lover"]
 
 <div align="center">
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer)
 
   **Thanks for visiting!** :cat:
 

@@ -58,7 +58,7 @@ from: Brazil
 current_job: Backend Developer
 education:
   [
-    "Faculdade de Tecnologia de Sorocaba - SP, Brazil",
+    "Faculdade de Tecnologia de Sorocaba - SP, Brazil"
   ]
 fields_of_interests:
   [

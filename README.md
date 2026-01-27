@@ -148,7 +148,7 @@ hobbies: ["Coding", "Learning New Tech" "Cat Lover"]
 <!-- Blog Posts -->
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Dos Requisitos ao Código Gerado](http://backandtowards.dev/p/ia-requisitos/) - Jan 08, 2026 /n- [Síndrome do Impostor - Parte 1: Como Criei um App Mesmo Achando que Era Impostor](http://backandtowards.dev/p/impostor-syndrome-app-part-1/) - Jan 02, 2026 /n<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Dos Requisitos ao Código Gerado](http://backandtowards.dev/p/ia-requisitos/) - Jan 08, 2026- [Síndrome do Impostor - Parte 1: Como Criei um App Mesmo Achando que Era Impostor](http://backandtowards.dev/p/impostor-syndrome-app-part-1/) - Jan 02, 2026<!-- BLOG-POST-LIST:END -->
 
 ---
 

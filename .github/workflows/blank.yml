@@ -22,6 +22,7 @@ jobs:
         with:
           feed_list: "https://backandtowards.dev/index.xml"
           max_post_count: 2
-          template: "- [$title]($url) - $date \n"
-          date_format: "mmm dd, yyyy"
+          # template: "- [$title]($url) - $date \n"
+          template: "<tr><td>$title</td><td>$url</td><td>$date</td></tr>"
+          date_format: "dd mmm, yyyy"
           # comment_tag_name: "BLOG-POST-LIST"

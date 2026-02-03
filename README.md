@@ -112,7 +112,7 @@ hobbies: ["Coding", "Learning New Tech" "Cat Lover"]
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats --
 ## GitHub Stats
 
 <div align="center">
@@ -121,7 +121,7 @@ hobbies: ["Coding", "Learning New Tech" "Cat Lover"]
 </div>
 
 <!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconht&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconht&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" /> 
 
 </div>
 

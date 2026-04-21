@@ -145,7 +145,7 @@ hobbies: ["Coding", "Learning New Tech" "Cat Lover"]
 
 ---
 
-<!-- Blog Posts -->
+<!-- Blog Posts
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START 
